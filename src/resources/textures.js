@@ -43,13 +43,13 @@ SVG.reactLogo = '../src/jsm/react-svg.svg';
 // 链接的跳转地址
 let URL = {};
 URL.blog =
-  'https://huabyte.com';
-URL.ryanfloyd = 'https://huabyte.com';
-URL.fund = 'https://github.com/AirHua-byte/FundSpider';
-URL.gitHub = 'https://github.com/AirHua-byte';
+  'https://yuxin-zh.github.io/AllForOne/p/srs/';
+URL.ryanfloyd = 'https://yuxin-zh.github.io/AllForOne/p/srs/';
+URL.fund = 'http://localhost:8080';
+URL.gitHub = 'http://localhost:8080';
 URL.BiliBili = 'https://space.bilibili.com/450443708';
-URL.email = 'https://airhua602@gmail.com';
-URL.music = 'https://music.huabyte.com';
+URL.email = 'https://AllForOneeeeee@Outlook.com';
+URL.music = 'https://yuxin-zh.github.io/AllForOne/p/srs/';
 URL.devTo =
   'http://wpa.qq.com/msgrd?v=3&uin=3301833942&site=qq&menu=yes"><img border="0" src="http://wpa.qq.com/pa?p=2:3301833942:41';
 
